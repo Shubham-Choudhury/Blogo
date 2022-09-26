@@ -1,4 +1,4 @@
-# Blogo PHP Blog Webapp
+# Blogo
 
 This is a simple blog webapp written in PHP. It uses a MySQL database to store blog posts and comments. It is a simple webapp that is meant to be used as a starting point for a blog webapp. It is not meant to be used as a production blog webapp.
 
