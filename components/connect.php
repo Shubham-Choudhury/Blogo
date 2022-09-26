@@ -1,6 +1,6 @@
 <?php
 
-   $db_name = 'mysql:host=localhost;dbname=blog_db';
+   $db_name = 'mysql:host=localhost;dbname=blogo';
    $user_name = 'root';
    $user_password = '';
 
